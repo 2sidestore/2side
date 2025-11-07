@@ -7880,7 +7880,7 @@ local teleportLocations = {
     ["Treasure Room"] = CFrame.new(-3599, -276, -1642),
     ["Lost Isle"] = CFrame.new(-3741.32, -135.57, -1023.33),
     ["Ancient Jungle"] = CFrame.new(1872.81, 8.28, -570.20),
-    ["Sacred Temple"] = CFrame.new(1475, -22, -630)),
+    ["Sacred Temple"] = CFrame.new(1475, -22, -630),
     ["Enchant Room"] = CFrame.new(3255, -1302, 1371),
     ["Double Enchant Room"] = CFrame.new(1480, 127, -590)
 }
