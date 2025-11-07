@@ -7878,7 +7878,7 @@ Teleport:AddParagraph({
 local teleportLocations = {
     ["Kohana Volcano"] = CFrame.new(-630.81, 55.88, 201.10),
     ["Treasure Room"] = CFrame.new(-3599, -276, -1642),
-    ["Lost Isle"] = CFrame.new(-3741.32, -135.57, -1023.33)
+    ["Lost Isle"] = CFrame.new(-3741.32, -135.57, -1023.33),
     ["Ancient Jungle"] = CFrame.new(1872.81, 8.28, -570.20),
     ["Sacred Temple"] = CFrame.new(1475, -22, -630)),
     ["Enchant Room"] = CFrame.new(3255, -1302, 1371),
